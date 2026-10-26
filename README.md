@@ -1,1 +1,1 @@
-# diskscanner-releases
+Releases of Disk Scanner
